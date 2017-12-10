@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "12  ASP.NET相册控件（含源码）", ".", "{F350C7AF-A1C1-45B6-BA34-3F3AE46DF36D}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv2.0"
+		Debug.AspNetCompiler.VirtualPath = "/PhotoAlbum"
+		Debug.AspNetCompiler.PhysicalPath = "..\12  ASP.NET相册控件（含源码）\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\PhotoAlbum\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/PhotoAlbum"
+		Release.AspNetCompiler.PhysicalPath = "..\12  ASP.NET相册控件（含源码）\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\PhotoAlbum\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "7165"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|.NET = Debug|.NET
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F350C7AF-A1C1-45B6-BA34-3F3AE46DF36D}.Debug|.NET.ActiveCfg = Debug|.NET
+		{F350C7AF-A1C1-45B6-BA34-3F3AE46DF36D}.Debug|.NET.Build.0 = Debug|.NET
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
